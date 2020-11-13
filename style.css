@@ -1,0 +1,11 @@
+.content-box-yellow2 {
+    background-color: hsl(60, 100%, 50%);
+    border: 3px solid rgb(173, 75, 5);
+    border-radius: 10px
+    }
+    .content-box-red {
+      background-color: rgb(240, 109, 109);
+      border: 3px solid rgb(255, 4, 4);
+      border-radius: 10px
+    
+    }
